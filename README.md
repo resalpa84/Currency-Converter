@@ -22,7 +22,7 @@ El proyecto está compuesto por las siguientes clases principales:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/resalpa84/Currency-Converter
 
 2. Importa el proyecto en tu IDE preferido.
 
